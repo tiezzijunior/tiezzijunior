@@ -4,6 +4,12 @@
 
 <p align="center">Desenvolvedor Web | Criando experiências digitais</p>
 
-<br><br>
+<br>
 
-<p>Olá! Eu sou Tiezzi Junior, desenvolvedor web apaixonado por criar experiências digitais que conectam pessoas e negócios. Busco sempre entregar soluções com design minimalista, funcionalidade e qualidade, ajudando ideias a se tornarem realidade.</p>
+<p>Olá! Eu sou Tiezzi Junior, desenvolvedor web apaixonado por criar experiências digitais que conectam pessoas e negócios. Busco sempre entregar soluções ideais para o seu negócio, com funcionalidade e qualidade, ajudando ideias a se tornarem realidade.</p>
+
+<hr>
+
+## 🌟 Destaques
+
+  - **Desenvolvedor Web:** Experiência na criação de Sites e Soluções Web personalizadas para qualquer negócio, utilizando HTML, CSS, PHP e JavaScript para entregar produtos funcionais, modernos e eficientes.
