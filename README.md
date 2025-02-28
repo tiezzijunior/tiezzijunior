@@ -30,3 +30,25 @@
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas e Plataformas:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Ferramentas de Design:
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-61A706?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+<hr>
+
+## 🌐 Contatos:
+
+### Redes Sociais
+<a href="https://www.instagram.com/mtiezzijr/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:tiezzi.junior@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Outlook-0A74C7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Outlook">
+</a>
+<a href="https://www.linkedin.com/in/ricardomouradev/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
