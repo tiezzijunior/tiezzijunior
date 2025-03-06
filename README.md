@@ -44,5 +44,5 @@
 
 ### Redes Sociais
 <a href="https://www.instagram.com/mtiezzijr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:tiezzi.junior@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Gmail"></a>
+<a href="mailto:tiezzi.juniorr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/ricardomouradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
